@@ -1,0 +1,16 @@
+{
+  "name": "basgatechecksum",
+  "description": "This is for basgate checksum creation and verification in node",
+  "version": "1.5.1",
+  "author": "Abdullah AlAnsi",
+  "main": "BasGateChecksum.js",
+  "keywords": [
+    "BasGate",
+    "Checksum",
+    "BasGate Node",
+    "BasGate checksum",
+    "BasGate signature",
+    "Signature"
+  ],
+  "homepage": "https://basgate.com/"
+}

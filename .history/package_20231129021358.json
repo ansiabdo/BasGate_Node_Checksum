@@ -1,0 +1,21 @@
+{
+  "name": "paytmchecksum",
+  "description": "This is for paytm checksum creation and verification in node",
+  "version": "1.5.1",
+  "author": "Soumya Vats",
+  "main": "BasGateChecksum.js",
+  "keywords": [
+    "BasGate",
+    "Checksum",
+    "BasGate Node",
+    "BasGate checksum",
+    "BasGate signature",
+    "Signature",
+    "BasGate payment"
+  ],
+  "homepage": "https://developer.paytm.com/docs/checksum/#node",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paytm/BasGate_Node_Checksum"
+  }
+}
